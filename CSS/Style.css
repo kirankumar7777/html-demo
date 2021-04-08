@@ -33,7 +33,7 @@ li a:hover {
 .banner_image {
     width: 100%;
     height: 600px;
-    background-color: violet;
+    background-color:black;
 
 }
 
@@ -41,5 +41,24 @@ li a:hover {
 .banner_image img {
     width: 100%;
     height: 100%;
+
 }
 
+.content {
+
+    background-color: violet;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    
+
+}
+
+.content_H1 {
+     padding: 20px 0 0 0;
+}
+
+
+.content_para {
+    padding: 20px 0 0 0;
+}
